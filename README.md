@@ -1,3 +1,22 @@
+# THE YOUTUBE BROWSER APP
+
+# OBJECTIVES
+This App deals with:
+
+- Handling User events
+- Fetches Data from an external API (The YouTube Public free API)
+- How to show a list of records
+- How to play fetched videos
+- Embedding videos
+
+# HOW IT WORKS:
+
+- The user types in a search term
+- A request is made to the YouTube API which matches the search term
+- The results are displayed (tiled) in a grid
+- The user can click on a video to play it
+- The video title and description are also displayed
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
