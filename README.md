@@ -1,9 +1,9 @@
-# THE YOUTUBE BROWSER APP
+# YOUTUBE BROWSER APP - With Hooks
 
 # OBJECTIVES
 This App deals with:
 
-- Handling User events
+- Handling User events using React Hooks
 - Fetches Data from an external API (The YouTube Public free API)
 - How to show a list of records
 - How to play fetched videos
